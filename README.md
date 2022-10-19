@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **New tools to boost my Data Science Skill**
 
-- 💬 Ask me about **Python, Data Science**
+- 💬 Ask me about **Python, Data Science, Business Analytics, C++**
 
 - 📫 How to reach me **bharath.naidu.1405@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
